@@ -1,19 +1,16 @@
-# Aishwarya Kumar 
- 
+# Hello World! :wave: 
+
+![Intro_banner_space](https://github.com/aishwarya-kumar/aishwarya-kumar/assets/52045719/8856a177-5f90-48f5-8e04-045cd6afa9e2)
+
 ### Machine learning | Deep learning | Artificial Intelligence | Statistics
 
-I am a proficient Data Science, Machine Learning, and AI practitioner with a proven track record in developing innovative solutions to complex business problems. I'm currently pursuing a Master's degree in Data Science from Northeastern University. My research interests lie in the domains of deep learning, Natural Language Processing (NLP), and Computer Vision.
+🚀 I'm a seasoned Data Scientist dedicated to unraveling the power of data. My journey in the realm of Data Science has been a thrilling exploration, delving into the depths of Machine Learning, Deep Learning, Artificial Intelligence, and even the fascinating world of Generative AI.
 
+🧠 With a passion for turning data into actionable insights, I've had the privilege of collaborating on projects that have driven innovation and transformation in industries. Whether it's crafting predictive models, diving into neural networks, or pushing the boundaries of AI, my aim is to constantly expand the horizons of what's possible with data.
 
-### Skills:
+📚 Here on GitHub, you'll find a treasure trove of my work, from cutting-edge machine learning projects to thought-provoking experiments in the world of Generative AI. Feel free to explore, learn, and collaborate. Let's continue pushing the boundaries of what data can do together!
 
-- **Programming:** Python, R, SQL, SAS
- - **Libraries/Frameworks:** Scikit learn, Tensorflow, Keras, Pytorch, NLTK, Langchain, Streamlit, Numpy, Pandas, Plotly, Matplotlib, Selenium, OpenCV, Beautifulsoup
- - **Machine Learning techniques:** Deep learning, Computer Vision, NLP, LLMs, Neural Networks (CNN, GAN), Regression, Decision trees, Random Forest, Boosting (GBM, XGB), Ensemble models, Clustering, Factor analysis,        
-                                    Hypothesis testing, Time series forecasting
- - **Databases:** Teradata, MySQL, Microsoft SQL server, MongoDB
- - **Data Visualization and dashboarding:** Matplotlib, ggplot, Dash, Streamlit, Gradio
- - **Developer tools:** Git, JIRA, Jupyter, RStudio, Pycharm, VS Code, Docker
+🌟 Join me in this exciting journey of data-driven discovery. Together, we can shape the future with intelligence and innovation.
 
 <!---
 aishwarya-kumar/aishwarya-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
