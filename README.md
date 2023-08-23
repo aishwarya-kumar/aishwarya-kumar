@@ -4,7 +4,6 @@
 
 I am a proficient Data Science, Machine Learning, and AI practitioner with a proven track record in developing innovative solutions to complex business problems. I'm currently pursuing a Master's degree in Data Science from Northeastern University. My research interests lie in the domains of deep learning, Natural Language Processing (NLP), and Computer Vision.
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={aishwarya-kumar}
 
 ### Skills:
 
